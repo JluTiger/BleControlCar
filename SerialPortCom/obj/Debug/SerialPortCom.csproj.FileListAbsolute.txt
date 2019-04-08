@@ -1,0 +1,10 @@
+C:\Users\JluTIger\source\repos\SerialPortCom\SerialPortCom\bin\Debug\SerialPortCom.exe.config
+C:\Users\JluTIger\source\repos\SerialPortCom\SerialPortCom\bin\Debug\SerialPortCom.exe
+C:\Users\JluTIger\source\repos\SerialPortCom\SerialPortCom\bin\Debug\SerialPortCom.pdb
+C:\Users\JluTIger\source\repos\SerialPortCom\SerialPortCom\obj\Debug\SerialPortCom.csprojAssemblyReference.cache
+C:\Users\JluTIger\source\repos\SerialPortCom\SerialPortCom\obj\Debug\SerialPortCom.Main.resources
+C:\Users\JluTIger\source\repos\SerialPortCom\SerialPortCom\obj\Debug\SerialPortCom.Properties.Resources.resources
+C:\Users\JluTIger\source\repos\SerialPortCom\SerialPortCom\obj\Debug\SerialPortCom.csproj.GenerateResource.cache
+C:\Users\JluTIger\source\repos\SerialPortCom\SerialPortCom\obj\Debug\SerialPortCom.csproj.CoreCompileInputs.cache
+C:\Users\JluTIger\source\repos\SerialPortCom\SerialPortCom\obj\Debug\SerialPortCom.exe
+C:\Users\JluTIger\source\repos\SerialPortCom\SerialPortCom\obj\Debug\SerialPortCom.pdb
